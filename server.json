@@ -1,5 +1,4 @@
-{
-  "server": [
+[
     {
       "prefixHttps": "https://",
       "hostWebLink": "www.proxywebsite.org",
@@ -18,5 +17,4 @@
       "openLink": "/browse.php?u=",
       "endLink": "&b=24&f=norefer"
     }
-  ]
-}
+]
