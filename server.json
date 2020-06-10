@@ -9,7 +9,7 @@
       "endLink": "&b=24&f=norefer"
     },
     {
-      "prefixHttps": "https://",
+      "prefixHttps": "http://",
       "hostWebLink": "webproxy.to",
       "action": "/includes/process.php?action=update",
       "actionPrefix": "u=",
