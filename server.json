@@ -4,13 +4,15 @@
       "prefixHttps": "https://",
       "hostWebLink": "www.proxywebsite.org",
       "action": "/?action=update",
+      "actionLink": "&stripJS=on&stripObjects=on&x=60&y=12",
       "openLink": "/browse.php?",
       "endLink": "&b=24&f=norefer"
     },
     {
       "prefixHttps": "http://",
       "hostWebLink": "http://webproxy.to/",
-      "action": "includes/process.php?action=update",
+      "action": "/includes/process.php?action=update",
+      "actionLink": "&allowCookies=on&stripJS=on&stripObjects=on",
       "openLink": "/browse.php?",
       "endLink": "&b=24&f=norefer"
     }
