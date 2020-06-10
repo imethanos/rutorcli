@@ -1,0 +1,18 @@
+{
+  "server": [
+    {
+      "prefixHttps": "https://",
+      "hostWebLink": "www.proxywebsite.org",
+      "action": "/?action=update",
+      "openLink": "/browse.php?",
+      "endLink": "&b=24&f=norefer"
+    },
+    {
+      "prefixHttps": "http://",
+      "hostWebLink": "http://webproxy.to/",
+      "action": "includes/process.php?action=update",
+      "openLink": "/browse.php?",
+      "endLink": "&b=24&f=norefer"
+    }
+  ]
+}
