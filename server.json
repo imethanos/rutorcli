@@ -11,7 +11,7 @@
     },
     {
       "prefixHttps": "http://",
-      "hostWebLink": "http://webproxy.to/",
+      "hostWebLink": "webproxy.to",
       "action": "/includes/process.php?action=update",
       "actionPrefix": "u=",
       "actionLink": "&allowCookies=on&stripJS=on&stripObjects=on",
