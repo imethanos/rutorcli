@@ -1,0 +1,24 @@
+[
+    {
+      "prefixHttps": "http://",
+      "hostWebLink": "webproxy.to",
+      "cookie": "s",
+      "action_enable", "1",
+      "action": "/includes/process.php?action=update",
+      "actionPrefix": "u=",
+      "actionLink": "&allowCookies=on&stripJS=on&stripObjects=on",
+      "openLink": "/browse.php?u=",
+      "endLink": "&b=24&f=norefer"
+    },
+    {
+      "prefixHttps": "http://",
+      "hostWebLink": "proxite.ws",
+      "cookie": "s",
+      "action_enable", "0",
+      "action": "/?action=update",
+      "actionPrefix": "u=",
+      "actionLink": "&allowCookies=on&stripJS=on&stripObjects=on",
+      "openLink": "/browse.php?u=",
+      "endLink": "&b=24&f=norefer"
+    }
+]
