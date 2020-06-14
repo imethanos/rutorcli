@@ -2,8 +2,6 @@
     {
       "prefixHttps": "http://",
       "hostWebLink": "webproxy.to",
-      "cookie": "s",
-      "action_enable": "1",
       "action": "/includes/process.php?action=update",
       "actionPrefix": "u=",
       "actionLink": "&allowCookies=on&stripJS=on&stripObjects=on",
@@ -13,8 +11,6 @@
     {
       "prefixHttps": "http://",
       "hostWebLink": "proxite.ws",
-      "cookie": "s",
-      "action_enable": "1",
       "action": "/?action=update",
       "actionPrefix": "u=",
       "actionLink": "&allowCookies=on&stripJS=on&stripObjects=on",
