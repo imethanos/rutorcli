@@ -1,14 +1,1 @@
-[
-    {
-      "host": "rutor.info",
-      "hostName": "Rutor.INFO",
-    },
-    {
-      "host": "zerkalo-rutor.org",
-      "hostName": "Zerkalo-Rutor.ORG",
-    },
-    {
-      "host": "rutor.lib",
-      "hostName": "Rutor.LIB",
-    }
-]
+["rutor.info","zerkalo-rutor.org","rutor.lib"]
