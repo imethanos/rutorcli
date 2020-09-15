@@ -1,7 +1,7 @@
 [
     {
       "prefixHttps": "http://",
-      "hostWebLink": "proxite.ws",
+      "hostWebLink": "www.websurf.in",
       "action": "/?action=update",
       "actionPrefix": "u=",
       "actionLink": "&allowCookies=on&stripJS=on&stripObjects=on",
@@ -37,7 +37,7 @@
     },
     {
       "prefixHttps": "http://",
-      "hostWebLink": "www.websurf.in",
+      "hostWebLink": "proxite.ws",
       "action": "/?action=update",
       "actionPrefix": "u=",
       "actionLink": "&allowCookies=on&stripJS=on&stripObjects=on",
