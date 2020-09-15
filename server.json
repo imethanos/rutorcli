@@ -27,8 +27,8 @@
       "endLink": "&b=24&f=norefer"
     },
     {
-      "prefixHttps": "https://",
-      "hostWebLink": "www.genmirror.com",
+      "prefixHttps": "http://",
+      "hostWebLink": "www.fixproxy.com",
       "action": "/?action=update",
       "actionPrefix": "u=",
       "actionLink": "&allowCookies=on&stripJS=on&stripObjects=on",
