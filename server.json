@@ -28,7 +28,7 @@
     },
     {
       "prefixHttps": "http://",
-      "hostWebLink": "proxurf.com/",
+      "hostWebLink": "proxurf.com",
       "action": "/?action=update",
       "actionPrefix": "u=",
       "actionLink": "&allowCookies=on&stripJS=on&stripObjects=on",
