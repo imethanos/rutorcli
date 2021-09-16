@@ -25,5 +25,14 @@
       "actionLink": "&allowCookies=on&stripJS=on&stripObjects=on",
       "openLink": "/browse.php?u=",
       "endLink": "&b=24&f=norefer"
+    },
+    {
+      "prefixHttps": "https://",
+      "hostWebLink": "proxurf.com/",
+      "action": "/?action=update",
+      "actionPrefix": "u=",
+      "actionLink": "&allowCookies=on&stripJS=on&stripObjects=on",
+      "openLink": "/browse.php?u=",
+      "endLink": "&b=24&f=norefer"
     }
 ]
