@@ -37,9 +37,9 @@
     },
     {
       "prefixHttps": "http://",
-      "hostWebLink": "proxysite.cc",
+      "hostWebLink": "www.cotomax.com.br",
       "action": "/?action=update",
-      "actionPrefix": "u=",
+      "actionPrefix": "q=",
       "actionLink": "&allowCookies=on&stripJS=on&stripObjects=on",
       "openLink": "/index.php?q=",
       "endLink": "&b=24&f=norefer"
