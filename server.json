@@ -37,11 +37,11 @@
     },
     {
       "prefixHttps": "http://",
-      "hostWebLink": "www.cotomax.com.br",
+      "hostWebLink": "www.covertbrowsing.com",
       "action": "/?action=update",
-      "actionPrefix": "q=",
+      "actionPrefix": "u=",
       "actionLink": "&allowCookies=on&stripJS=on&stripObjects=on",
-      "openLink": "/index.php?q=",
+      "openLink": "/anonymous.php.php?u=",
       "endLink": "&b=24&f=norefer"
     }
 ]
