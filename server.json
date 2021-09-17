@@ -19,7 +19,7 @@
     },
     {
       "prefixHttps": "http://",
-      "hostWebLink": "www.fixproxy.com",
+      "hostWebLink": "proxite.ws",
       "action": "/?action=update",
       "actionPrefix": "u=",
       "actionLink": "&allowCookies=on&stripJS=on&stripObjects=on",
