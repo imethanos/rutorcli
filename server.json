@@ -37,11 +37,11 @@
     },
     {
       "prefixHttps": "https://",
-      "hostWebLink": "zend2.com",
+      "hostWebLink": "proxybrowser.xyz",
       "action": "/?action=update",
       "actionPrefix": "u=",
       "actionLink": "&allowCookies=on&stripJS=on&stripObjects=on",
-      "openLink": "/open19.php?u=",
+      "openLink": "/index.php?q=",
       "endLink": "&b=24&f=norefer"
     }
 ]
