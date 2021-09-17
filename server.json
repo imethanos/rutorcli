@@ -37,11 +37,11 @@
     },
     {
       "prefixHttps": "http://",
-      "hostWebLink": "www.covertbrowsing.com",
+      "hostWebLink": "unblockthatsite.net",
       "action": "/?action=update",
       "actionPrefix": "u=",
       "actionLink": "&allowCookies=on&stripJS=on&stripObjects=on",
-      "openLink": "/anonymous.php.php?u=",
+      "openLink": "/browse.php?u=",
       "endLink": "&b=24&f=norefer"
     }
 ]
