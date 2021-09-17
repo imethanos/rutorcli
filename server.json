@@ -1,8 +1,8 @@
 [
     {
       "prefixHttps": "http://",
-      "hostWebLink": "www.websurf.in",
-      "action": "/?action=update",
+      "hostWebLink": "unblockthatsite.net",
+      "action": "/includes/process.php?action=update",
       "actionPrefix": "u=",
       "actionLink": "&allowCookies=on&stripJS=on&stripObjects=on",
       "openLink": "/browse.php?u=",
@@ -21,24 +21,6 @@
       "prefixHttps": "http://",
       "hostWebLink": "proxite.ws",
       "action": "/?action=update",
-      "actionPrefix": "u=",
-      "actionLink": "&allowCookies=on&stripJS=on&stripObjects=on",
-      "openLink": "/browse.php?u=",
-      "endLink": "&b=24&f=norefer"
-    },
-    {
-      "prefixHttps": "http://",
-      "hostWebLink": "proxurf.com",
-      "action": "/?action=update",
-      "actionPrefix": "u=",
-      "actionLink": "&allowCookies=on&stripJS=on&stripObjects=on",
-      "openLink": "/browse.php?u=",
-      "endLink": "&b=24&f=norefer"
-    },
-    {
-      "prefixHttps": "http://",
-      "hostWebLink": "unblockthatsite.net",
-      "action": "/includes/process.php?action=update",
       "actionPrefix": "u=",
       "actionLink": "&allowCookies=on&stripJS=on&stripObjects=on",
       "openLink": "/browse.php?u=",
