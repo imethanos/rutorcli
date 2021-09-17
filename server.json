@@ -36,8 +36,8 @@
       "endLink": "&b=24&f=norefer"
     },
     {
-      "prefixHttps": "https://",
-      "hostWebLink": "proxybrowser.xyz",
+      "prefixHttps": "http://",
+      "hostWebLink": "proxysite.cc",
       "action": "/?action=update",
       "actionPrefix": "u=",
       "actionLink": "&allowCookies=on&stripJS=on&stripObjects=on",
