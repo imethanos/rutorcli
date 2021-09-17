@@ -19,10 +19,10 @@
     },
     {
       "prefixHttps": "http://",
-      "hostWebLink": "proxite.ws",
+      "hostWebLink": "www.fixproxy.com",
       "action": "/?action=update",
       "actionPrefix": "u=",
-      "actionLink": "&allowCookies=on",
+      "actionLink": "&allowCookies=on&stripJS=on&stripObjects=on",
       "openLink": "/browse.php?u=",
       "endLink": "&b=24&f=norefer"
     },
