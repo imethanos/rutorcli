@@ -1,0 +1,74 @@
+[
+{
+    "url": "/top",
+    "name": "Топ"
+},
+{
+    "url": "/new",
+    "name": "Новые"
+},           
+{
+    "url": "/kino",
+    "name": "Зарубежные фильмы"
+},	            
+{
+    "url": "/nashe_kino",
+    "name": "Наши фильмы"
+},	            
+{
+    "url": "/seriali",
+    "name": "Зарубежные сериалы"
+},
+{
+    "url": "/nashi_seriali",
+    "name": "Наши сериалы"
+},
+{
+    "url": "/tv",
+    "name": "Телевизор"
+},
+{
+    "url": "/nauchno_popularnoe",
+    "name": "Научно-популярные фильмы"
+},
+{
+    "url": "/jumor",
+    "name": "Юмор"
+},
+{
+    "url": "/multiki",
+    "name": "Мультипликация"
+},
+{
+    "url": "/anime",
+    "name": "Аниме"
+},
+{
+    "url": "/sport",
+    "name": "Спорт и Здоровье"
+},
+{
+    "url": "/byt",
+    "name": "Хозяйство и Быт"
+},
+{
+    "url": "/audio",
+    "name": "Музыка"
+},
+{
+    "url": "/games",
+    "name": "Игры"
+},
+{
+    "url": "/soft",
+    "name": "Софт"
+},
+{
+    "url": "/knigi",
+    "name": "Книги"
+},
+{
+    "url": "/other",
+    "name": "Другое"
+}
+]
