@@ -4,9 +4,9 @@
       "hostWebLink": "www.prowebscape.com/1/2/",
       "action": "?q=",
       "actionPrefix": "q=",
-      "actionLink": "&hl[remove_scripts]=on",
+      "actionLink": "&hl%5Bremove_scripts%5D=on&hl%5Baccept_cookies%5D=on&hl%5Bstrip_meta%5D=on&hl%5Bstrip_title%5D=on&hl%5Bsession_cookies%5D=on",
       "openLink": "index.php",
-      "endLink": "&hl=3a5",
+      "endLink": "",
       "proxyType": "1"
     },
     {
