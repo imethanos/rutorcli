@@ -2,7 +2,7 @@
     {
       "prefixHttps": "http://",
       "hostWebLink": "www.prowebscape.com/1/2/",
-      "action": "",
+      "action": "?q=",
       "actionPrefix": "q=",
       "actionLink": "&hl[remove_scripts]=on",
       "openLink": "index.php",
