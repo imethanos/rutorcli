@@ -18,5 +18,15 @@
       "openLink": "/browse.php?u=",
       "endLink": "&b=24&f=norefer",
       "proxyType": "3"
+    },
+    {
+      "prefixHttps": "https://",
+      "hostWebLink": "fixproxy.com/index.php",
+      "action": "/?action=update",
+      "actionPrefix": "u=",
+      "actionLink": "&allowCookies=on&stripJS=on&stripObjects=on",
+      "openLink": "/browse.php?u=",
+      "endLink": "&b=24&f=norefer",
+      "proxyType": "3"
     }
 ]
