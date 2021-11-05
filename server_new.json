@@ -22,7 +22,7 @@
     {
       "prefixHttps": "https://",
       "hostWebLink": "fixproxy.com/index.php",
-      "action": "/?action=update",
+      "action": "?action=update",
       "actionPrefix": "u=",
       "actionLink": "&allowCookies=on&stripJS=on&stripObjects=on",
       "openLink": "/browse.php?u=",
