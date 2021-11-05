@@ -5,7 +5,7 @@
       "action": "",
       "actionPrefix": "q=",
       "actionLink": "&hl[remove_scripts]=on",
-      "openLink": "/index.php",
+      "openLink": "index.php",
       "endLink": "&hl=3a5",
       "proxyType": "1"
     },
