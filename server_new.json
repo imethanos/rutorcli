@@ -1,6 +1,16 @@
 [
     {
       "prefixHttps": "http://",
+      "hostWebLink": "www.gauvreau.fr/",
+      "action": "?q=",
+      "actionPrefix": "q=",
+      "actionLink": "&hl%5Bremove_scripts%5D=on&hl%5Baccept_cookies%5D=on&hl%5Bshow_images%5D=on&hl%5Bsession_cookies%5D=on",
+      "openLink": "index.php",
+      "endLink": "",
+      "proxyType": "1"
+    },
+    {
+      "prefixHttps": "http://",
       "hostWebLink": "www.commonsound.com/fud/prox/",
       "action": "?q=",
       "actionPrefix": "q=",
