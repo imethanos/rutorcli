@@ -9,7 +9,7 @@
       "endLink": "&b=24&f=norefer"
     },
     {
-      "prefixHttps": "http://",
+      "prefixHttps": "https://",
       "hostWebLink": "wjptest.azurewebsites.net",
       "action": "/includes/process.php?action=update",
       "actionPrefix": "u=",
