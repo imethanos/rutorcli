@@ -10,7 +10,7 @@
     },
     {
       "prefixHttps": "http://",
-      "hostWebLink": "torarp.se/bypass",
+      "hostWebLink": "wjptest.azurewebsites.net",
       "action": "/includes/process.php?action=update",
       "actionPrefix": "u=",
       "actionLink": "&allowCookies=on&stripJS=on&stripObjects=on",
