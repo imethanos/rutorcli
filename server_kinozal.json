@@ -1,3 +1,11 @@
 [
-    
+   {
+      "prefixHttps": "http://",
+      "hostWebLink": "unblockthatsite.net",
+      "action": "/includes/process.php?action=update",
+      "actionPrefix": "u=",
+      "actionLink": "&allowCookies=on&stripJS=on&stripObjects=on",
+      "openLink": "/browse.php?u=",
+      "endLink": "&b=24&f=norefer"
+    } 
 ]
