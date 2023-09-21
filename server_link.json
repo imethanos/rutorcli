@@ -11,7 +11,7 @@
     },
     {
       "prefixHttps": "http://",
-      "hostWebLink": "theinternetpics.com/freeweb/",
+      "hostWebLink": "proxy.nowhereincoming.net/",
       "action": "?q=",
       "actionPrefix": "q=",
       "actionLink": "&hl%5Bremove_scripts%5D=on&hl%5Baccept_cookies%5D=on&hl%5Bshow_images%5D=on&hl%5Bsession_cookies%5D=on",
@@ -21,7 +21,7 @@
     },
     {
       "prefixHttps": "http://",
-      "hostWebLink": "www.weissmann.fr/",
+      "hostWebLink": "http://proxy.greenhat.fr/",
       "action": "?q=",
       "actionPrefix": "q=",
       "actionLink": "&hl%5Bremove_scripts%5D=on&hl%5Baccept_cookies%5D=on&hl%5Bshow_images%5D=on&hl%5Bsession_cookies%5D=on",
