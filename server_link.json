@@ -21,7 +21,7 @@
     },
     {
       "prefixHttps": "http://",
-      "hostWebLink": "http://proxy.greenhat.fr/",
+      "hostWebLink": "proxy.greenhat.fr/",
       "action": "?q=",
       "actionPrefix": "q=",
       "actionLink": "&hl%5Bremove_scripts%5D=on&hl%5Baccept_cookies%5D=on&hl%5Bshow_images%5D=on&hl%5Bsession_cookies%5D=on",
