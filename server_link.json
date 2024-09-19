@@ -1,7 +1,17 @@
 [
+      {
+      "prefixHttps": "https://",
+      "hostWebLink": "www.rateavon.je/error.php",
+      "action": "?q=",
+      "actionPrefix": "q=",
+      "actionLink": "&hl%5Bremove_scripts%5D=on&hl%5Baccept_cookies%5D=on&hl%5Bshow_images%5D=on&hl%5Bsession_cookies%5D=on",
+      "openLink": "",
+      "endLink": "",
+      "proxyType": "1"
+    },
     {
-      "prefixHttps": "http://",
-      "hostWebLink": "www.worryfreecomputers.com/tube/",
+      "prefixHttps": "https://",
+      "hostWebLink": "px.medsalah.com/r/",
       "action": "?q=",
       "actionPrefix": "q=",
       "actionLink": "&hl%5Bremove_scripts%5D=on&hl%5Baccept_cookies%5D=on&hl%5Bshow_images%5D=on&hl%5Bsession_cookies%5D=on",
@@ -11,27 +21,7 @@
     },
     {
       "prefixHttps": "http://",
-      "hostWebLink": "proxy.nowhereincoming.net/",
-      "action": "?q=",
-      "actionPrefix": "q=",
-      "actionLink": "&hl%5Bremove_scripts%5D=on&hl%5Baccept_cookies%5D=on&hl%5Bshow_images%5D=on&hl%5Bsession_cookies%5D=on",
-      "openLink": "index.php",
-      "endLink": "",
-      "proxyType": "1"
-    },
-    {
-      "prefixHttps": "http://",
-      "hostWebLink": "proxy.greenhat.fr/",
-      "action": "?q=",
-      "actionPrefix": "q=",
-      "actionLink": "&hl%5Bremove_scripts%5D=on&hl%5Baccept_cookies%5D=on&hl%5Bshow_images%5D=on&hl%5Bsession_cookies%5D=on",
-      "openLink": "index.php",
-      "endLink": "",
-      "proxyType": "1"
-    },
-    {
-      "prefixHttps": "http://",
-      "hostWebLink": "fgks.org/proxy/",
+      "hostWebLink": "ag.myhosting.me/p/",
       "action": "?q=",
       "actionPrefix": "q=",
       "actionLink": "&hl%5Bremove_scripts%5D=on&hl%5Baccept_cookies%5D=on&hl%5Bshow_images%5D=on&hl%5Bsession_cookies%5D=on",
