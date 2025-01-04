@@ -40,13 +40,23 @@
       "proxyType": "1"
     },
     {
-      "prefixHttps": "http://",
+      "prefixHttps": "https://",
       "hostWebLink": "mgtenders.com/glype",
-      "action": "/includes/process.php?action=update",
+      "action": "/?action=update",
       "actionPrefix": "u=",
       "actionLink": "&allowCookies=on&stripJS=on&stripObjects=on",
       "openLink": "/browse.php?u=",
       "endLink": "&b=24&f=norefer",
+      "proxyType": "3"
+    },
+    {
+      "prefixHttps": "https://",
+      "hostWebLink": "www.ghostproxy.nl/",
+      "action": "/includes/process.php?action=update",
+      "actionPrefix": "u=",
+      "actionLink": "&allowCookies=on&stripJS=on&stripObjects=on",
+      "openLink": "/browse.php?u=",
+      "endLink": "&b=28&f=norefer",
       "proxyType": "2"
     }      
 ]
