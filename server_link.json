@@ -30,13 +30,23 @@
       "proxyType": "1"
     },
     {
-      "prefixHttps": "https://",
-      "hostWebLink": "webproxy.ich-war-hier.de/",
+      "prefixHttps": "http://",
+      "hostWebLink": "www.samonrye.com/prokzi/",
       "action": "?q=",
       "actionPrefix": "q=",
       "actionLink": "&hl%5Bremove_scripts%5D=on&hl%5Baccept_cookies%5D=on&hl%5Bshow_images%5D=on&hl%5Bsession_cookies%5D=on",
       "openLink": "index.php",
       "endLink": "",
       "proxyType": "1"
-    }
+    },
+    {
+      "prefixHttps": "http://",
+      "hostWebLink": "mgtenders.com/glype",
+      "action": "/includes/process.php?action=update",
+      "actionPrefix": "u=",
+      "actionLink": "&allowCookies=on&stripJS=on&stripObjects=on",
+      "openLink": "/browse.php?u=",
+      "endLink": "&b=24&f=norefer",
+      "proxyType": "2"
+    }      
 ]
