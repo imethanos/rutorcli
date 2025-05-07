@@ -11,7 +11,7 @@
     },
     {
       "prefixHttps": "https://",
-      "hostWebLink": "px.medsalah.com/",
+      "hostWebLink": "edae.gr/p3/",
       "action": "?q=",
       "actionPrefix": "q=",
       "actionLink": "&hl%5Bremove_scripts%5D=on&hl%5Baccept_cookies%5D=on&hl%5Bshow_images%5D=on&hl%5Bsession_cookies%5D=on",
@@ -21,7 +21,7 @@
     },
     {
       "prefixHttps": "https://",
-      "hostWebLink": "www.veesta.com/p5/",
+      "hostWebLink": "websiteproxy.net/",
       "action": "?q=",
       "actionPrefix": "q=",
       "actionLink": "&hl%5Bremove_scripts%5D=on&hl%5Baccept_cookies%5D=on&hl%5Bshow_images%5D=on&hl%5Bsession_cookies%5D=on",
@@ -41,43 +41,12 @@
     },
    {
       "prefixHttps": "http://",
-      "hostWebLink": "alpha.newrandom.com",
-      "action": "/includes/process.php?action=update",
-      "actionPrefix": "u=",
-      "actionLink": "&allowCookies=on&stripJS=on&stripObjects=on",
-      "openLink": "/browse.php?u=",
-      "endLink": "&b=24&f=norefer",
-       "proxyType": "2"
-   },
-    {
-      "prefixHttps": "http://",
-      "hostWebLink": "proxycrime.com",
-      "action": "/includes/process.php?action=update",
-      "actionPrefix": "u=",
-      "actionLink": "&allowCookies=on&stripJS=on&stripObjects=on",
-      "openLink": "/browse.php?u=",
-      "endLink": "&b=24&f=norefer",
-      "proxyType": "3"
-    },
-    {
-      "prefixHttps": "http://",
-      "hostWebLink": "mgtenders.com/glype",
-      "action": "/includes/process.php?action=update",
-      "actionPrefix": "u=",
-      "actionLink": "&allowCookies=on&stripJS=on&stripObjects=on",
-      "openLink": "/browse.php?u=",
-      "endLink": "&b=24&f=norefer",
-      "proxyType": "2"
-    },
-      {
-      "prefixHttps": "https://",
-      "hostWebLink": "www.rateavon.je/error.php",
+      "hostWebLink": "79.170.44.75/hostdoctordemo.co.uk/downloads/vpn/index.php",
       "action": "?q=",
       "actionPrefix": "q=",
       "actionLink": "&hl%5Bremove_scripts%5D=on&hl%5Baccept_cookies%5D=on&hl%5Bshow_images%5D=on&hl%5Bsession_cookies%5D=on",
       "openLink": "",
       "endLink": "",
       "proxyType": "1"
-    }
-      
+   }
 ]
