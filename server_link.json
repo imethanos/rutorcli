@@ -10,8 +10,8 @@
       "proxyType": "1"
     },
     {
-      "prefixHttps": "https://",
-      "hostWebLink": "edae.gr/p3/",
+      "prefixHttps": "http://",
+      "hostWebLink": "auon00.xhost.ro/",
       "action": "?q=",
       "actionPrefix": "q=",
       "actionLink": "&hl%5Bremove_scripts%5D=on&hl%5Baccept_cookies%5D=on&hl%5Bshow_images%5D=on&hl%5Bsession_cookies%5D=on",
