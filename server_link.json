@@ -6,7 +6,7 @@
       "actionPrefix": "q=",
       "actionLink": "&hl%5Bremove_scripts%5D=on&hl%5Baccept_cookies%5D=on&hl%5Bshow_images%5D=on&hl%5Bsession_cookies%5D=on",
       "openLink": "",
-      "endLink": "",
+      "endLink": "&hl=200",
       "proxyType": "1"
     },
     {
@@ -21,11 +21,11 @@
     },
     {
       "prefixHttps": "https://",
-      "hostWebLink": "accessibleevent.com/poxy/",
+      "hostWebLink": "accessibleevent.com/poxy/index.php",
       "action": "?q=",
       "actionPrefix": "q=",
       "actionLink": "&hl%5Bremove_scripts%5D=on&hl%5Baccept_cookies%5D=on&hl%5Bshow_images%5D=on&hl%5Bsession_cookies%5D=on",
-      "openLink": "index.php",
+      "openLink": "",
       "endLink": "&hl=1e1",
       "proxyType": "1"
     },
@@ -41,11 +41,11 @@
    },
    {
       "prefixHttps": "http://",
-      "hostWebLink": "www.veesta.com/p5/",
+      "hostWebLink": "www.veesta.com/p5/index.php",
       "action": "?q=",
       "actionPrefix": "q=",
       "actionLink": "&hl%5Bremove_scripts%5D=on&hl%5Baccept_cookies%5D=on&hl%5Bshow_images%5D=on&hl%5Bsession_cookies%5D=on",
-      "openLink": "index.php",
+      "openLink": "",
       "endLink": "&hl=3e1",
       "proxyType": "1"
    }
